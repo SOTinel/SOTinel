@@ -21,7 +21,7 @@ My approach is simple:
 - MITRE ATT&CK
 - IOC Analysis
 
-## 🛡️ Featured Investigations
+##  Featured Investigations
 
 ### Wazuh Rootkit Detection Lab
 
@@ -36,18 +36,18 @@ Analyzed a suspicious phishing email through header, domain and URL investigatio
 Designed and configured a simulated office network covering subnetting, routing, file services and ISP connectivity.
 
 
-## 🎯 Current Goal
+##  Current Goal
 
 Building practical experience toward a career in:
 
 **SOC Operations | Blue Team | Threat Detection | Incident Response**
 
-## 📂 Projects
+##  Projects
 
 My hands-on cybersecurity projects are available throughout this profile.
 
 Each project documents the investigation process, evidence, analysis, findings and lessons learned.
 
-## 🔗 Connect
+##  Connect
 
 [LinkedIn](https://www.linkedin.com/in/sotinel/)
